@@ -22,7 +22,7 @@ Welcome to the `Travel Packing List React App`, where organizing your trip essen
 
 - **Portal Feature with `react-dom`**: Implements a portal feature using `react-dom` to render modal windows outside the `DOM` hierarchy of the parent component. This ensures proper layering and positioning of modal windows in the application.
 
-### Technologies Used
+## Technologies Used
 
 - **React**: Crafted with `React`, the leading `JavaScript` library for building user interfaces. Expect a responsive and interactive application that's a joy to use.
 
@@ -32,7 +32,7 @@ Welcome to the `Travel Packing List React App`, where organizing your trip essen
 
 - **Custom Hooks**: Harness the power of custom hooks for managing local storage and application-specific functionality. These hooks promote code reusability, simplify complex logic and enhance code organization. For instance, I implemented `useOutsideClick` to detect clicks outside a specified `DOM` element, which is useful for handling click events and closing modal windows or other `UI` elements.
 
-#### How to Use
+## How to Use
 
 1. Clone the `travel-list-v4` repository to your local machine.
 2. Navigate into the project directory using the command `cd your-project-folder`.
@@ -40,7 +40,7 @@ Welcome to the `Travel Packing List React App`, where organizing your trip essen
 4. Run the development server using `yarn start`.
 5. Open your browser and navigate to `http://localhost:3000` to view the application.
 
-##### Demo
+## Demo
 
 You can view a live demo of the project here: `https://travel-list-version-4.netlify.app`.
 
