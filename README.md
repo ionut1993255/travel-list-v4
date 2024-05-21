@@ -2,6 +2,12 @@
 
 Welcome to the `Travel Packing List React App`, where organizing your trip essentials is a breeze! This application combines cutting-edge technologies with a user-friendly design to offer you a seamless experience in managing your travel packing list.
 
+## Installation Guide
+
+1. Install dependencies using `yarn install`.
+2. Run the frontend development server using `yarn start`.
+3. Open your browser and navigate to <a href="http://localhost:3000">`http://localhost:3000`</a> to view the application.
+
 ## Key Features
 
 - **State Management with Redux Toolkit**: Enjoy streamlined state management with `Redux Toolkit`, a powerful package built on top of `Redux`. Say goodbye to boilerplate code and hello to predictable state updates across components.
@@ -32,16 +38,8 @@ Welcome to the `Travel Packing List React App`, where organizing your trip essen
 
 - **Custom Hooks**: Harness the power of custom hooks for managing local storage and application-specific functionality. These hooks promote code reusability, simplify complex logic and enhance code organization. For instance, I implemented `useOutsideClick` to detect clicks outside a specified `DOM` element, which is useful for handling click events and closing modal windows or other `UI` elements.
 
-## How to Use
-
-1. Clone the `travel-list-v4` repository to your local machine.
-2. Navigate into the project directory using the command `cd your-project-folder`.
-3. Install dependencies using `yarn install`.
-4. Run the development server using `yarn start`.
-5. Open your browser and navigate to `http://localhost:3000` to view the application.
-
 ## Demo
 
-You can view a live demo of the project here: `https://travel-list-version-4.netlify.app`.
+You can view a live demo of the project here: <a href="https://travel-list-version-4.netlify.app">`https://travel-list-version-4.netlify.app`</a>.
 
 With its array of features and technologies, the `Travel Packing List React App` is your ultimate companion for hassle-free travel planning. Start packing with confidence today!
